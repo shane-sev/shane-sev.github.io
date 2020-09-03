@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Shane Severino",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "shanesev@hawaii.edu",
+    "phone": "",
+    "website": "https://shane-sev.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "shane-sev",
+        "url": "https://shane-sev.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "shanesev",
+        "url": "https://www.linkedin.com/in/shane-severino-aa40711b6"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        "TI "
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Networking",
       "keywords": [
       ]
     }
