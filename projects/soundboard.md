@@ -20,5 +20,5 @@ Our group wanted to be original, but we quickly ran into both coding. I was in c
 
 As much as I learned from the actual coding of this assignment, I feel strongly that I learned even more about what it is like to collaborate on a project with other programmers. Communication played a large part in our ability to complete this assignment. I was fortunate to have very flexible and understanding partners as we learned together how to cooperate while we were not all physically with each other. We had to figure out the best way to work on the project individually while also being able to save our version history so that we could see what everyone else was adding. After many phone calls, emails, and text messages, I am very proud of what we were able to accomplish for our first ever team project.
 
-Source: <a href="https://github.com/fredstraub/soundboard"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/fredstraub/soundboard"><i class="large github icon"></i>fredstraub/soundboard</a>
 
