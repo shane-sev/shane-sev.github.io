@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/stereo.png
-title: Micromouse
+title: Soundboard
 permalink: projects/soundboard
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-09
