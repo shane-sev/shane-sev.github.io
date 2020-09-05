@@ -9,53 +9,15 @@ date: 2020-04-09
 labels:
   - Leadership
   - Student Government
-summary: An unexpected turn to the highest honor of student governemnt.
+summary: This is my story of acheiving the highest honor of student governemnt.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/proconsul.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Many people often wonder what exactly a proconsul is when I tell them the title of the position I held in student government. At my school, each grade level from seventh to twelfth has four class officers: a secretary, treasurer, vice president, and president. The position of proconsul is held by three individuals and they oversee all of the student body while working directly with the student activities advisors. This is the highest position that you could run for in student government, and I won it. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+The campaign for proconsul is unique. Once a year in the spring semester a mandatory assembly is held where all upper school students (grades 7-12) get to listen to the proconsul candidates’ speeches. Many students actually look forward to this assembly because in the attempt to win over the opinion of hundreds of teenagers, proconsuls often make their speeches entertaining. I knew that when I ran I would have to make people laugh, but I also knew that I was no stand up comedian. I wrote draft after draft for over a week before I landed on my final speech. After talking over my ideas with my brother who had recently graduated from the same high school I finally produced my end script. I was involved in many different aspects of my high school. From music, to sports, and even to art I knew many of the different groups of people around campus and they also knew me. I decided that the best way to present myself was to just be myself. I would not attempt to manufacture a persona or gimmick for myself just to try and get more laughs out of the student body. So I wrote a script that stayed true to my identity while weaving my own sense of humor into my words in a way that students from all different backgrounds and interests could understand. Delivering that speech in front of the whole school is still one of my proudest moments in memory. 
 
-<hr>
+After winning the election, the real work began. I had weekly meetings with the other proconsuls and our advisors. One of the first tasks we had was to select members for our various student committees. Each proconsul was responsible for three committees. Every committee is made up of about eight students and is dedicated to different student activities such as faculty relations, publicity, or school spirit. We decided on the members of all of the committees together. Even though I was not originally very close to the other proconsuls we eventually grew close to each other. I consider the three of us to be very different from each other but we quickly got to know one another. More importantly, we figured out how to work together while understanding our differences. Together we wrote many speeches, spoke at several assemblies, and ran a number of student events.    
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+I loved my time as a proconsul and I learned a lot about what it means to be a leader. A leader must understand the wants and needs of the people that he or she is serving. A leader must know how to work as a team with other leaders despite any differences. A leader must know how to adapt and manage groups of people. These are all lessons that I will carry forward with me as I hope to find myself in more leadership roles. 
