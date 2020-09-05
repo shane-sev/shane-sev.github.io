@@ -13,7 +13,6 @@ summary: My first computer science group project at the university level.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/soundboard.png">
-</div>
 
 In ICS 111, my first computer science course at the University of Hawai’i at Manoa, our instructor gave us the task of producing a group project in Eclipse (a Java IDE) for one of our final assessments. Rather than create some type of video game like many of the other groups in our class opted to do, we decided to create a drum machine or soundboard. 
 
