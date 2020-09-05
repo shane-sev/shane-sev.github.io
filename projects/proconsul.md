@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/proconsul.jpg
+title: Proconsul
+permalink: projects/proconsul
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-04-09
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Leadership
+  - Student Government
+summary: An unexpected turn to the highest honor of student governemnt.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
