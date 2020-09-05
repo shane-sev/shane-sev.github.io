@@ -12,7 +12,7 @@ labels:
 summary: This is my story of acheiving the highest honor of student governemnt.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/proconsul.jpg">
+<img class="ui medium right floated rounded image" src="../images/proconsul.jpg">
 
 Many people often wonder what exactly a proconsul is when I tell them the title of the position I held in student government. At my school, each grade level from seventh to twelfth has four class officers: a secretary, treasurer, vice president, and president. The position of proconsul is held by three individuals and they oversee all of the student body while working directly with the student activities advisors. This is the highest position that you could run for in student government, and I won it. 
 
