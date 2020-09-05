@@ -5,7 +5,7 @@ image: images/proconsul.jpg
 title: Proconsul
 permalink: projects/proconsul
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-09
+date: 2020-09-04
 labels:
   - Leadership
   - Student Government
