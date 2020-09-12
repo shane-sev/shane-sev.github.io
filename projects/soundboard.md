@@ -5,7 +5,7 @@ image: images/stereo.png
 title: Soundboard
 permalink: projects/soundboard
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-04
+date: 2020-12-15
 labels:
   - Java
   - Group Project
