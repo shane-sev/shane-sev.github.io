@@ -79,69 +79,52 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "University of Hawai'i at Mānoa - College of Natural Sciences Student Academic Success Center",
+      "position": "College of Natural Sciences Advising Office Assistant",
+      "website": "https://natsci.manoa.hawaii.edu/sasc/",
+      "startDate": "2020-06-25",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Answer the office email and phone line",
+        "Assist in side projects such as updating the office website, managing the office instagram, and adding to weekly email announcements"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa Warrior Recreation Center",
+      "position": "Front Desk Office Assistant",
+      "website": "https://manoa.hawaii.edu/studentrec/fitnesscenter/about.html",
+      "startDate": "2019-09-16",
+      "endDate": "2020-03-20",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer emails, phone calls, and any in-person questions from gym patrons",
+        "Sell gym memberships and various gym services"
+      ]
+    },
+    {
+      "company": "UH Information Technology Center",
+      "position": "Reception Desk Assistan",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2019-06-18",
+      "endDate": "2019-08-28",
+      "summary": "",
+      "highlights": [
+        "Answer any questions from visitors and the front desk phone line",
+        "Sign in visitors who have scheduled meetings",
+        "Collect and deliver mail throughout the building"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+    
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "University of Hawaii at Manoa Regents Scholarship",
+      "date": "2019-2023",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship awarded to incoming, local freshmen with a minimum GPA of 3.5 and a minimum SAT score of 1340 or ACT score of 29."
     }
   ],
   "references": [
