@@ -5,7 +5,7 @@ image: images/volleyballsquare.jpg
 title: Volleyball Career
 permalink: projects/volleyball-career
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-04
+date: 2019-05-04
 labels:
   - Sports
   - Teamwork
