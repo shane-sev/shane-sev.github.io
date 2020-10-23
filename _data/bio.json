@@ -49,10 +49,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "HTML",
+        "CSS"
       ]
     },
     {
