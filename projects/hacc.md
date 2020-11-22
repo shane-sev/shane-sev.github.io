@@ -15,7 +15,7 @@ labels:
 summary: My software development team won first place overall at the 2020 Hawaii Annual Code Challenge for our COVID-19 chatbot.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/OverEasi.png">
+<img class="ui medium right floated rounded image" src="../images/overeasi.png">
 
 This fall, I entered the 2020 Hawaii Annual Code Challenge (HACC) with three of my software engineering classmates: Eric Lam, Alyssandra Cabading, and Irene Ma. Together we formed Team OverEasi. HACC is a unique hackathon that takes place over the course of a multi-week timeframe in order to encourage teamwork. Each participating team is required to select a sponsored challenge and develop a community driven, sustainable solution. My team chose to undertake the NIC Hawaii COVID-19 Chatbot challenge.
 
@@ -26,4 +26,5 @@ We primarily used three software developing tools: Meteor, MongoDB, and Google D
 After presenting our chatbot application in front of a panel of judges and the governor of Hawaii, we ended up winning first place overall and took home the grand prize of $4,000. On top of this, participants and audience members voted on all of the applications that were presented on judging day, and our team won the People’s Choice Award for this year’s HACC. This was a pretty incredible experience as it was my first big coding project outside of the scope of my courses and the university. I really learned a lot about not only coding, but what it looks like to be a part of a software development team in a remote setting during these times. 
 
 YouTube demonstration video: <a href="https://youtu.be/_rw8uz4mLBo">Click Here</a>
+
 GitHub: <a href="https://github.com/HACC2020/OverEasi"><i class="large github icon"></i>HACC 2020 Team OverEasi COVID-19 Chatbot</a>
