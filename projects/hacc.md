@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/HA.png
 title: HACC 2020 1st Place Winner
-permalink: projects/HACC2020
+permalink: projects/hacc
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-21
 labels:
